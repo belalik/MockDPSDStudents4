@@ -1,0 +1,32 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+
+    <string-array name="order_entries">
+        <item>by id (default)</item>
+        <item>by surname</item>
+        <item>by sex</item>
+        <item>by year of entry (asc)</item>
+        <item>by year of entry (desc)</item>
+    </string-array>
+
+    <string-array name="order_values">
+        <item>by_id</item>
+        <item>by_surname</item>
+        <item>by_sex</item>
+        <item>by_year_of_entry_asc</item>
+        <item>by_year_of_entry_desc</item>
+    </string-array>
+
+
+
+</resources>
